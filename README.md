@@ -1,6 +1,6 @@
 <img src="https://github.com/Srinjoy08/Srinjoy08.github.io/blob/master/pic_new2.jpg">
 
-<h3><b>Hi,I'm Srinjoy Choudhury!</b></h3> 
+<h3><b>Hi, I'm Srinjoy Choudhury!</b></h3> 
 
 I pursued my B.Tech from Kolkata from Future Institute of Engineering and Management. I have always been fascinated by technology and its application. I love coding and working on database. DBMS,Java and C are my stengths and I love to learn and seek knowledge.
 
@@ -9,7 +9,7 @@ I pursued my B.Tech from Kolkata from Future Institute of Engineering and Manage
   <tr>
     <th>Institute</th>
     <th>University</th>
-    <th>Degree<th>
+    <th>Degree<<th>
     <th>Year of Passing</th>
     <th>Marks</th>
   </tr>
@@ -23,7 +23,7 @@ I pursued my B.Tech from Kolkata from Future Institute of Engineering and Manage
   <tr>
     <td>The Assembly of God Church School</td>
     <td>CBSE</td>
-    <td>12>
+    <td>12<td>
     <td>2015</td>
     <td>84.2%</td>
   </tr>
