@@ -9,13 +9,13 @@ I pursued my B.Tech from Kolkata from Future Institute of Engineering and Manage
   <tr>
     <th>Institute</th>
     <th>University</th>
-    <th>Degree<th>
+    <th>Degree</th>
     <th>Year of Passing</th>
     <th>Marks</th>
   </tr>
   <tr>
     <td>Future Institute on Engineering and Management(FIEM)</td>
-    <td>Maulana Abul Kalam Azad University of Technology(MAKAUT)<td>
+    <td>Maulana Abul Kalam Azad University of Technology(MAKAUT)</td>
     <td>B.Tech in Computer Science & Engineering</td>
     <td>2019</td>
     <td>8.05 CGPA</td>
@@ -23,14 +23,14 @@ I pursued my B.Tech from Kolkata from Future Institute of Engineering and Manage
   <tr>
     <td>The Assembly of God Church School</td>
     <td>CBSE</td>
-    <td>12<td>
+    <td>12</td>
     <td>2015</td>
     <td>84.2%</td>
   </tr>
   <tr>
     <td>The Assembly of God Church School</td>
     <td>CBSE</td>
-    <td>10<td>
+    <td>10</td>
     <td>2013</td>
     <td>79.8%</td>
   </tr>
