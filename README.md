@@ -59,7 +59,7 @@ I pursued my B.Tech from Kolkata from Future Institute of Engineering and Manage
   <h3><b>Acheivements:</b></h3>
   <ul>
   <li>Received Most Innovative Project Award for creating a game on Java in an Intra College Project Competetion.</li>
-  <li>Received academic awards for ggod performance in school & college level.</li>
+  <li>Received academic awards in school & college level.</li>
   </ul>
     
 <h3><b>Interests:</b></h3>
@@ -67,3 +67,6 @@ I pursued my B.Tech from Kolkata from Future Institute of Engineering and Manage
   <li>Listening to Music</li>
   <li>Watching Movies</li>
  </ul>
+<h3>Contact:</h3><h4>Email: srinjoy.choudhury@cognizant.com<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspsrinjoy08@gmail.com<br><br>
+Mobile: 8967277969</h4>
