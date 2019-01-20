@@ -9,7 +9,7 @@ I pursued my B.Tech from Kolkata from Future Institute of Engineering and Manage
   <tr>
     <th>Institute</th>
     <th>University</th>
-    <th>Degree<<th>
+    <th>Degree<th>
     <th>Year of Passing</th>
     <th>Marks</th>
   </tr>
