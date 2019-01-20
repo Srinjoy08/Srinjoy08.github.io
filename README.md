@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+<h3><b>Hi,I'm Srinjoy Choudhury!</b></h3>   <img src="">
 
-You can use the [editor on GitHub](https://github.com/Srinjoy08/Srinjoy08.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I pursued my B.Tech from Kolkata from Future Institute of Engineering and Management. I have always been fascinated by technology and its application. I love coding and working on database. DBMS,Java and C are my stengths and I love to learn and seek knowledge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3><b>Educational Qualification</b></h3>
+<table>
+  <tr>
+    <th>Institute</th>
+    <th>University</th>
+    <th>Degree<th>
+    <th>Year of Passing</th>
+    <th>Marks</th>
+  </tr>
+  <tr>
+    <td>Future Institute on Engineering and Management(FIEM)</td>
+    <td>Maulana Abul Kalam Azad University of Technology(MAKAUT)<td>
+    <td>B.Tech in Computer Science & Engineering</td>
+    <td>2019</td>
+    <td>8.05 CGPA</td>
+  </tr>
+  <tr>
+    <td>The Assembly of God Church School</td>
+    <td>CBSE</td>
+    <td>12>
+    <td>2015</td>
+    <td>84.2%</td>
+  </tr>
+  <tr>
+    <td>The Assembly of God Church School</td>
+    <td>CBSE</td>
+    <td>10<td>
+    <td>2013</td>
+    <td>79.8%</td>
+  </tr>
+  </table>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Srinjoy08/Srinjoy08.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h3><b>Projects:</b></h3>
+<ul>
+  <li>YouTube Data Analysis using Apache Hadoop & Apache Hive</li>
+  <li>Pong Game using Java</li>
+</ul>
+  
+<h3><b>Technical Proficiency:</b></h3>
+<ol>
+  <li>DBMS</li>
+  <li>JAVA</li>
+  <li>C</li>
+ </ol>
+ 
+<h3><b>Certifications:</b></h3>
+ <ol>
+  <li>Elite NPTEL Online Certification on DBMS</li>
+  <li>Microsoft Training Assosiate Certificate on Introduction to Programming using Java</li>
+  <li>Certificate on Big Data - Hadoop from Ardent Computech Ltd.</li>
+ </ol>
+  
+  <h3><b>Acheivements:</b></h3>
+  <ul>
+  <li>Received Most Innovative Project Award for creating a game on Java in an Intra College Project Competetion.</li>
+  <li>Received academic awards for ggod performance in school & college level.</li>
+  </ul>
+    
+<h3><b>Interests:</b></h3>
+<ul>
+  <li>Listening to Music</li>
+  <li>Watching Movies</li>
+ </ul>
