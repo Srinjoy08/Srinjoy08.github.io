@@ -1,4 +1,6 @@
-<h3><b>Hi,I'm Srinjoy Choudhury!</b></h3>   <img src="https://github.com/Srinjoy08/Srinjoy08.github.io/blob/master/pic_new2.jpg">
+<img src="https://github.com/Srinjoy08/Srinjoy08.github.io/blob/master/pic_new2.jpg">
+
+<h3><b>Hi,I'm Srinjoy Choudhury!</b></h3> 
 
 I pursued my B.Tech from Kolkata from Future Institute of Engineering and Management. I have always been fascinated by technology and its application. I love coding and working on database. DBMS,Java and C are my stengths and I love to learn and seek knowledge.
 
