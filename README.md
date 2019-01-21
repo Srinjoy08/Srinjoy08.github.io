@@ -1,4 +1,4 @@
-<img src="https://github.com/Srinjoy08/Srinjoy08.github.io/blob/master/pic_new2.jpg">
+<img src="pic_new2.jpg">
 
 <h3><b>Hi, I'm Srinjoy Choudhury!</b></h3> 
 
