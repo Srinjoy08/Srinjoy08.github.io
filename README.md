@@ -67,6 +67,5 @@ I pursued my B.Tech from Kolkata from Future Institute of Engineering and Manage
   <li>Listening to Music</li>
   <li>Watching Movies</li>
  </ul>
-<h3>Contact:</h3><h4>Email: srinjoy.choudhury@cognizant.com<br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspsrinjoy08@gmail.com<br><br>
+<h3>Contact:</h3><h4>Email: srinjoy.choudhury@cognizant.com | srinjoy08@gmail.com<br><br>
 Mobile: 8967277969</h4>
